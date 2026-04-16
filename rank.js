@@ -58,4 +58,4 @@ console.log("Você é categoria 'Imortal'")
 
 }
 
-console.log("O você possui saldo de" , victorePoints, "vitorias e" , lossPoints, "derrotas")
+console.log("Você possui saldo de" , victorePoints, "vitorias e" , lossPoints, "derrotas")
